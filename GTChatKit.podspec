@@ -31,5 +31,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'GTChatKit/Classes/**/*'
   
-  s.dependency 'Texture', '~> 2.5'
+  s.dependency 'Texture', '~> 3.1'
 end
